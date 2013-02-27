@@ -9,7 +9,7 @@
     <port index="2" pull="down" tristatemask="0" />
     <wakeup_pin enable="true" port="1" pin="6" state="up" />
     <usb enable="false" endpoint="api" />
-    <usart mode="packet" channel="1" alternate="1" baud="38400" endpoint="api" flow="false" />
+    <usart channel="1" alternate="1" baud="38400" endpoint="api" flow="false" />
     <!--
         UART PIN ASSIGNMENT TABLE:
         +=========+===========+======+======+======+======+
